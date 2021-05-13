@@ -1,0 +1,22 @@
+
+img{
+    border: 8px ;
+    width: 300px;
+}    
+h1{
+    text-align:center;
+    font-family: 'Lato', sans-serif;
+}    
+.color{ 
+    color:#AF0F90;
+    font-family: 'Comfortaa', cursive;
+font-family: 'Dancing Script', cursive;
+}    
+.colors{
+     color:#F022F0 ;
+     font-family: 'Comfortaa', cursive;
+font-family: 'Dancing Script', cursive;
+}   
+html{
+    background: url(https://store.hp.com/app/assets/images/uploads/prod/25-best-hd-wallpapers-laptops159561982840438.jpg);
+}
